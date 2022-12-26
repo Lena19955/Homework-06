@@ -76,10 +76,10 @@ void Task43()
 	Console.WriteLine();
 	double b2 = ReadInt("b2");
 	Console.WriteLine();
-	FunctionX(k1, k2, b1, b2);
+	Function(k1, k2, b1, b2);
 }
 
-void FunctionX(double k1, double k2, double b1, double b2)
+void Function(double k1, double k2, double b1, double b2)
 {   
 	if (k1 == k2)
         {
